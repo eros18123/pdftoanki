@@ -1,0 +1,50 @@
+{
+    "language": "pt_BR",
+    "zoom": {
+        "initial_dpi": 75,
+        "step_dpi": 25,
+        "min_dpi": 50
+    },
+    "colors": {
+        "read_page_bg_light": "#e6ffed",
+        "read_page_fg_light": "#2ca02c",
+        "read_page_border_light": "#a3d6a3",
+        "read_page_bg_dark": "#2c572c",
+        "read_page_fg_dark": "#d4edda",
+        "read_page_border_dark": "#4a784a",
+        "delete_button_bg_light": "#ffdddd",
+        "delete_button_fg_light": "#d8000c",
+        "delete_button_bg_dark": "#5c1a1a",
+        "delete_button_fg_dark": "#ff9e9e"
+    },
+    "features": {
+        "enable_word_index": true
+    },
+    "word_index": {
+        "stop_words": [
+            "de", "a", "o", "que", "e", "do", "da", "em", "um", "para", "é", "com", "não", "uma",
+            "os", "no", "se", "na", "por", "mais", "as", "dos", "como", "mas", "foi", "ao", "ele",
+            "das", "tem", "à", "seu", "sua", "ou", "ser", "quando", "muito", "há", "nos", "já",
+            "está", "eu", "também", "só", "pelo", "pela", "até", "isso", "ela", "entre", "era",
+            "depois", "sem", "mesmo", "aos", "ter", "seus", "quem", "nas", "me", "esse", "eles",
+            "estão", "você", "tinha", "foram", "essa", "num", "nem", "suas", "meu", "às", "minha",
+            "the", "a", "an", "is", "in", "it", "of", "for", "on", "and", "to", "was", "were", "with"
+        ]
+    },
+    "extraction": {
+        "background_dpi": 150,
+        "font_size_multiplier": 0.8
+    },
+    "shortcuts": {
+        "viewer_focus_search": "Ctrl+F",
+        "viewer_zoom_in": "Ctrl+=",
+        "viewer_zoom_out": "Ctrl+-",
+        "viewer_next_search": "F3",
+        "viewer_prev_search": "Shift+F3",
+        "viewer_extract_text": "Ctrl+T",
+        "viewer_extract_image": "Ctrl+A",
+        "viewer_highlight": "Ctrl+D",
+        "viewer_comment": "Ctrl+C",
+        "editor_toggle_panel": "Ctrl+P"
+    }
+}
